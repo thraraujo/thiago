@@ -1,0 +1,24 @@
+<html>
+<head> 
+<title>Publications</title>
+
+<a href="https://thraraujo.github.io/thiago/">Home</a> &bull 
+<a href="https://thraraujo.github.io/publications/">Publications</a> 
+</head>
+
+<body style="margin:20;padding:20">
+ 
+<h1 class="title">Publications</h1>
+
+<p>Most of my papers can be found in the inspiresHEP, arXiv, google scholar, Lattes. During my undergraduate studies 
+I have written a simple paper and it has been published in a local journal. You can find it here, (only in Portuguese).
+</p>
+
+<h2>Published Papers:</h2>
+ 
+ <ul class=space_list>
+  <li>paper 01</li>
+ </ul>
+ 
+</body>
+</html>
